@@ -9,10 +9,12 @@
     padding: 80px 80px;
     width: 90vh;
     /* background: url(../../assets/img/game.html) no-repeat; */
+    
+    /* background: url()https://www.pinterest.com/pin/145241156723772556/ */
     background-size: 70% 80%;
     background-position: center right;
-    border: 1px solid rgba(255, 133, 110, 0.25);
-    box-shadow: 4px 4px 4px rgba(255, 133, 110, 0.25);
+    border: 1px solid rgba(210, 19, 118, 0.25);
+    box-shadow: 4px 4px 4px rgba(215, 10, 116, 0.25);
     border-radius: 10px;
 }
 
@@ -53,7 +55,7 @@ input {
     margin: 20px 0;
     border: none;
     background-color: transparent;
-    border-bottom: 1px solid #0c236a;
+    border-bottom: 1px solid #fef319;
     padding: 10px 500px 10px 10px;
     color: #85aa2d;
     font-weight: 300;
@@ -74,13 +76,13 @@ p {
 }
 
 ul {
-    color: #EEA06B;
+    color: #7adf44;
     text-decoration: none;
     list-style-type: none;
 }
 
 a {
-    color: #EEA06B;
+    color: #44e479;
     text-decoration: none;
 }
 

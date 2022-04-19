@@ -8,7 +8,7 @@
     margin: 20vh auto;
     padding: 80px 80px;
     width: 90vh;
-    background: url(../../assets/img/circles.svg) no-repeat;
+    /* background: url(../../assets/img/circles.svg) no-repeat; */
     background-size: 70% 80%;
     background-position: center right;
     border: 1px solid rgba(255, 133, 110, 0.25);
@@ -17,7 +17,7 @@
 }
 
 .card p {
-    color: #EEA06B;
+    color: #3fce22;
 }
 
 .logo {
@@ -25,7 +25,7 @@
 }
 
 .gradient-text{
-    background: linear-gradient(90deg, #EEA06B 0%, #FFD973 100%);
+    background: linear-gradient(90deg, #50d318 0%, #8dd337 100%);
     background-size: 100%;
     background-clip: text;
     color: transparent;
@@ -55,9 +55,9 @@ input {
     margin-top: 20px;
     border: none;
     background-color: transparent;
-    border-bottom: 1px solid #EEA06B;
+    border-bottom: 1px solid #5dc321;
     padding: 10px 500px 10px 10px;
-    color: #EEA06B;
+    color: #25bf14;
     font-weight: 300;
     font-size: 18px;
     outline: none;
@@ -68,11 +68,11 @@ input::placeholder{
     background-color: transparent;
     font-weight: 300;
     font-size: 18px;
-    color: #EEA06B;
+    color: #6bee78;
 }
 
 button {
-    background: linear-gradient(90deg, #EEA06B 0%, #FFD973 100%);
+    background: linear-gradient(90deg, #a2ea12 0%, #35c132 100%);
     border: none;
     border-radius: 5px;
     padding: 15px 50px;
@@ -80,13 +80,13 @@ button {
     font-weight: bold;
     font-size: 14px;
     line-height: 21px;
-    color: #040D21;
+    color: #072738;
 }
 
 button:hover {
-    background: linear-gradient(90deg, #FFD973 0%, #EEA06B 100%);
+    background: linear-gradient(90deg, #1da40b 0%, #45b71b 100%);
 }
 
 app-user-repo {
-    color: #EEA06B;
+    color: #1eba28;
 }
