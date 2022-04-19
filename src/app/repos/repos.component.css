@@ -24,7 +24,7 @@
     margin-bottom: 50px;
 }
 .gradient-text{
-    background: linear-gradient(90deg, #EEA06B 0%, #FFD973 100%);
+    background: linear-gradient(90deg, #6be028 0%, #b0e284 100%);
     background-size: 100%;
     background-clip: text;
     color: transparent;
